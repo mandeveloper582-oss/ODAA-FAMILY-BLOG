@@ -1,4 +1,4 @@
-  const BASE_URL = "https://odaa-family-tech.onrender.com";
+  const BASE_URL = "https://odaa-family-blog.onrender.com";
 
 console.log("Frontend loaded 🚀");
 
